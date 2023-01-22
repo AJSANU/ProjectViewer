@@ -90,7 +90,7 @@ export default function BasicTabs() {
           target="_blank"
           color='pink'
         >
-             <Tab icon={<TelegramIcon />} label="Instagram" {...a11yProps(3)} />
+             <Tab icon={<TelegramIcon />} label="Telegram" {...a11yProps(3)} />
         </a>
         <a
           href="https://www.youtube.com/@placementstuffscs-it6515/featured"
