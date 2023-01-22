@@ -82,6 +82,18 @@
       "about_project": "This component will create a tour for the content page for user understanding.",
       "colorCode": "#FF2F0C",
       "rating": "5"
+    }, 
+    {
+      "name": "Project Collection",
+      "code": "08",
+      "GitHub_Link": "https://github.com/AJSANU/ProjectViewer.git",
+      "Linkedin_link": "https://www.linkedin.com/posts/abhishek-jha-2135b1184_react-reactjs-frontend-activity-7022793508189065216-l2FQ?utm_source=share&utm_medium=member_desktop",
+      "youtube_link": "https://youtu.be/6p7uTzb2ZQs",
+      "instagram_link": "https://www.instagram.com/reel/CntHuJIJglP/?utm_source=ig_web_button_share_sheet",
+      "video_uploadLink": "6p7uTzb2ZQs",
+      "about_project": "This project is a consolidated project to list down all my projects at single place.",
+      "colorCode": "#cf1020",
+      "rating": "5"
     }
   ]
   

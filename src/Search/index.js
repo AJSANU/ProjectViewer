@@ -49,8 +49,8 @@ class App extends Component {
               title={project.name}
               style={{ fontFamily: "Comic Sans MS" }}
             >
-              {project.name.substring(0, 15)}
-              {project.name.length > 15 && "..."}
+              {project.name.substring(0, 20)}
+              {project.name.length > 20 && "..."}
             </CardTitle>
             <CardText>
               <div>
