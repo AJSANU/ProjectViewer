@@ -5,7 +5,8 @@ import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
-import Tabs from "./tabs";
+import Avatar from '@mui/material/Avatar';
+import { deepOrange } from '@mui/material/colors';
 
 export default function Header() {
 	  
@@ -28,6 +29,7 @@ return (
 			component="div" sx={{ flexGrow: 100 }}>
 			My Project List
 		</Typography>
+		<Avatar sx={{ bgcolor: deepOrange[500] }}>AJ</Avatar>
 		</Toolbar>
 	</AppBar>
 );
